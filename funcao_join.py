@@ -31,4 +31,6 @@ print(texto_find)
 
 frase = 'O Rato Roeu a Roupa o Rei de Roma'
 frase_count = frase.count('o') # vaiser impresso 5 letras 'o" pois o minúsculo é diferente do maiúsculo
+frase_count2 = frase.count('R')
 print(frase_count)
+print(frase_count2)
