@@ -56,3 +56,10 @@ my_str = 'hello world'
 
 is_all_lower = my_str.islower()
 print(is_all_lower)
+
+# TITLE(): Retorna uma nova string com a primeira letra de cada palavra em maiúscula.
+
+my_str = 'seja bem-vindo!'
+
+my_str_title = my_str.title()
+print(my_str_title)
