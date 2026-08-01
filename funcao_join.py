@@ -36,3 +36,23 @@ frase_count = frase.count('o') # vaiser impresso 5 letras 'o" pois o minúsculo 
 frase_count2 = frase.count('R')
 print(frase_count)
 print(frase_count2)
+
+# CAPITALIZE() Retorna uma nova string com a primeira etra maiúscula e as demais minúsculas
+
+palavra = 'avião'
+
+palavra_capitalaze = palavra.capitalize()
+print(palavra_capitalaze)
+
+# ISUPPER(): Retorna verdadeiro(True) se todas as letras na string forem maiúsculas e (False)
+# falso caso contrário.
+
+palavra2 = 'hello world'
+palavra_isupper = palavra2.isupper()
+print(palavra_isupper)
+
+# ISLOWER(): Retorna verdadeiro Truese todas as letras na string forem minúsculas e Falsefalso caso contrário.
+my_str = 'hello world'
+
+is_all_lower = my_str.islower()
+print(is_all_lower)
