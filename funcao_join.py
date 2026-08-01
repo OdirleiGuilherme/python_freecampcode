@@ -25,7 +25,9 @@ print(palavra_termina)
 texto = 'Vingadores Avante!'
 
 texto_find = texto.find('Avante')
+texto_find2 = texto.find('Ghost Rider') # Quando não existir a palavra pesquisada com find o returnovai ser -1
 print(texto_find)
+print(texto_find2)
 
 # COUNT retorna o número de vezs que uma substring aparece em uma string
 
