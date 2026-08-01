@@ -26,3 +26,9 @@ texto = 'Vingadores Avante!'
 
 texto_find = texto.find('Avante')
 print(texto_find)
+
+# COUNT retorna o número de vezs que uma substring aparece em uma string
+
+frase = 'O Rato Roeu a Roupa o Rei de Roma'
+frase_count = frase.count('o') # vaiser impresso 5 letras 'o" pois o minúsculo é diferente do maiúsculo
+print(frase_count)
