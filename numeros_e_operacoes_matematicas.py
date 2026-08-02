@@ -11,3 +11,10 @@ print(type(int_2))
 
 # Acima vemos que utilizando o metódo type, indica que ambos são números inteiros (integer/int)
 
+# Agora vamos realizar uma operação de adição com números inteiros
+
+int_3 = 17
+int_4 = 32
+
+sum_int = int_3 + int_4
+print(f'A soma de {int_3} + {int_4} é {sum_int}')
