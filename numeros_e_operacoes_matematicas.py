@@ -32,3 +32,9 @@ int_7 = 5
 int_8 = 5
 product_int = int_7 * int_8
 print(f'Multiplicando os números {int_7} * {int_8} temos o produto {product_int}')
+
+# Agora vem a divisão, mas atenção temos 3 modos de divisão a comum (/), inteira (//), módulo ou resto da divisão( % )
+# DIVISÃO COMUM
+
+div_int = int_5 / int_7
+print(f'A divisão entre {int_5} / {int_7} é {div_int}') 
