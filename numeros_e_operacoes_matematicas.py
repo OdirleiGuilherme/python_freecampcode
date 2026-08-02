@@ -25,3 +25,10 @@ int_5 = 32
 int_6 = 14
 diff_int = int_5 - int_6
 print(f'A subtração entre os núemros {int_5} - {int_6} é: {diff_int}')
+
+# realizando multiplicação
+
+int_7 = 5
+int_8 = 5
+product_int = int_7 * int_8
+print(f'Multiplicando os números {int_7} * {int_8} temos o produto {product_int}')
