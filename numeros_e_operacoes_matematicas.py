@@ -44,7 +44,7 @@ print(f'A divisão entre {int_5} / {int_7} é {div_int}')
 div_int = int_5 // int_7
 print(f'A divisão entre {int_5} / {int_7} é {div_int}') 
 
-# Divisão por módulo ou resto da divisão que vai apresetar o que sobrou do resto da divisão
+# DIVISÃO POR MÓDULO ou RESTO DA DIVISÃO apreseta o que sobrou do resto da divisão
 
 div_int = int_5 % int_7
 print(f'A divisão entre {int_5} / {int_7} é {div_int}') 
