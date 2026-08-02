@@ -18,3 +18,10 @@ int_4 = 32
 
 sum_int = int_3 + int_4
 print(f'A soma de {int_3} + {int_4} é {sum_int}')
+
+# Nesse exemplo vamos subtrair com números inteiros
+
+int_5 = 32
+int_6 = 14
+diff_int = int_5 - int_6
+print(f'A subtração entre os núemros {int_5} - {int_6} é: {diff_int}')
