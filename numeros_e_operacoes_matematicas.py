@@ -38,3 +38,8 @@ print(f'Multiplicando os números {int_7} * {int_8} temos o produto {product_int
 
 div_int = int_5 / int_7
 print(f'A divisão entre {int_5} / {int_7} é {div_int}') 
+
+# DIVISÃO INTEIRA
+
+div_int = int_5 // int_7
+print(f'A divisão entre {int_5} / {int_7} é {div_int}') 
