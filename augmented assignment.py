@@ -52,3 +52,8 @@ greet = 'Hello'
 greet += ' World'
 print(greet)
 
+# Atribuição de multiplicação para string
+
+mensagem = 'Oi'
+mensagem *= 4 
+print(mensagem)
