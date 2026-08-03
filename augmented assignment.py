@@ -5,6 +5,8 @@
 
 # variable <operator>= value
 
+# Adição
+
 num1 = 26
 num1 +=20
 print(f'Cliente tem {num1} anos')
@@ -15,3 +17,14 @@ contagem = 77
 contagem -= 13
 print(f'A temperatura caiu para {contagem} graus celsius')
 
+# Multiplcação
+
+multi = 5
+multi*= 3
+print(f'Joazinho multipicou suas balasde 5 para {multi}')
+
+# Divisão
+
+price = 200
+price/= 5
+print(f'Galera a divisão do churrasco ficou {price} para cada um participante.')
