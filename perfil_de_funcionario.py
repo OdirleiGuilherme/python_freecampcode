@@ -13,4 +13,3 @@ estado = input('Informe estado: ')
 
 
 
-print(nome_completo)
