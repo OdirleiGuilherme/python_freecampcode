@@ -40,3 +40,15 @@ print(f'O total de pagina que preciso ler por dia para concluir esse livro de 27
 bits = 35
 bits %= 2
 print(f'coloquei a batida dessa música pra {bits} bits')
+
+# Atribuição por exponenciação(**)
+power = 2
+power**= 3
+print(f' 2 elevado a 3 tem resultado: {power}')
+
+# Atribução por strings
+
+greet = 'Hello'
+greet += ' World'
+print(greet)
+
