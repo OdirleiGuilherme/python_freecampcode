@@ -3,6 +3,7 @@ tipo_assento = 'Ouro'
 horario_sessao = 'Noite'
 membro = True
 fim_de_semana = False
+desconto = 0
 
 idade = int(input('digite sua idade: '))
 
