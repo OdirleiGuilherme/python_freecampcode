@@ -47,3 +47,28 @@ elif age <=59:
 else:
     print(f'Ah tá com {age} anos, você é um idoso')
 
+#Em Python, todo valor possui um valor booleano inerente, ou seja, 
+# um sentido embutido que indica se ele deve ser tratado como verdadeiro Trueou falso Falseem um contexto lógico. 
+# Muitos valores são considerados verdadeiros (truthy) , isto é, são avaliados como verdadeiros Trueem um contexto
+# lógico. Outros são falsos (falsy) , ou seja, são avaliados como falsos False.
+# Aqui estão alguns valores falsos:
+
+# * None
+# * False
+# * Número integer 0
+# * Número float 0.0
+# * cadeias vazias " "
+
+# Outros valores, como números diferentes de zero e sequências de caracteres não vazias, 
+# são considerados verdadeiros.Se você quiser verificar se um valor é verdadeiro (truthy) ou falso (falsy),
+#  pode usar a função integrada bool(). Ela converte explicitamente um valor para 
+# seu equivalente booleano e retorna verdadeiro True(truthy) para valores 
+# verdadeiros e falso False(falsy) para valores falsos. Aqui estão alguns exemplos:
+
+print(bool(False))
+print(bool(0))
+print(bool(''))
+print(bool(True))
+print(bool(3))
+print(bool('Olá Mundo'))
+
