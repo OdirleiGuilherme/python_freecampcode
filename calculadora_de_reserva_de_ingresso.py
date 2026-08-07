@@ -18,7 +18,7 @@ if idade >= 21:
 else:
     print('Sem direito para ir ao show noturno')
 
-if membro is True:
+if membro:
     desconto_membro = desconto
     print(f'Seu ingresso saiu por R$ {desconto_membro} por ser membro')
 else:
